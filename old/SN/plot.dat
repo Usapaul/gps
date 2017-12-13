@@ -1,0 +1,2 @@
+plot 'possbl.dat' using 1:2 w l,'data.dat' using 1:2 w p
+pause(-1)
